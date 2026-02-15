@@ -1,7 +1,7 @@
 <h1 align="center">FPGA × ML</h1>
-<p align="center">ultra basics ahead</p>
+<p align="center">planning branch</p>
 <p align="center">
-from absolute zero → hardware inference
+absolute basics to work on and resources to help with it
 </p>
 
 <br>
