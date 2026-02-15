@@ -27,5 +27,5 @@ from absolute zero → hardware inference
 </p>
 
 <p align="center">
-  <a href="basic_resources.md">basic resources</a>
+  <a href="prerequisite_resources/basic_resources.md">basic resources</a>
 </p>
