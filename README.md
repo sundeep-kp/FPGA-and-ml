@@ -1,5 +1,5 @@
 <h1 align="center">FPGA × ML</h1>
-
+<p align="center">ultra basics ahead</p>
 <p align="center">
 from absolute zero → hardware inference
 </p>
@@ -24,4 +24,8 @@ from absolute zero → hardware inference
   <b>current state:</b> planning + resource dump  
   <br>
   <b>next:</b> coding branch with actual implementations
+</p>
+
+<p align="center">
+  <a href="basic_resources.md">basic resources</a>
 </p>
